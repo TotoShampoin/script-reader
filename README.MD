@@ -2,4 +2,4 @@
 
 To read a txt file line by line.
 
-[https://totoshampoin.github.io/script-reader/](Use it here)
+[Use it here](https://totoshampoin.github.io/script-reader/)
